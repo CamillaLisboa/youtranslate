@@ -1,6 +1,16 @@
 # You Translate
 CRUD para trabalho de Linguagem de Programação
 
+# Informações de Login
+
+Admin
+email: admin@youtranslate.com
+senha: admin123
+
+User
+email: user@youtranslate.com
+senha: user123
+
 # Introdução
 
 O “You Translate” é uma ferramenta onde o usuário poderá traduzir palavras de maneira rápida e prática, além de conhecer seu significado e aplicação. Os idiomas utilizados para essa aplicação são o inglês e português, assim o usuário terá acesso às informações da palavra desejada em ambas as línguas.
