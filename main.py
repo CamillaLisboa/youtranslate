@@ -248,9 +248,9 @@ def on_login():
     password = entry_password.get()
     
     if authenticate_user(email, password):
-        if email == 'admin@admin':
+        if email == 'admin@youtranslate.com':
             show_admin_interface()
-        elif email == 'user@user':
+        elif email == 'user@youtranslate.com':
             show_user_interface()
     else:
         messagebox.showerror("Erro", "Acesso negado")
