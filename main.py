@@ -65,7 +65,7 @@ def create_database():
     if not user_exists('admin@youtranslate.com'):
         register_user('admin@youtranslate.com', 'admin123')
     if not user_exists('user@youtranslate.com'):
-        register_user('user@youtranslate.comr', 'user123')
+        register_user('user@youtranslate.com', 'user123')
     
     conn.commit()
     conn.close()
